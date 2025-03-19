@@ -1,1 +1,1 @@
-# EOS-Adanced
+# EOS-Advanced
